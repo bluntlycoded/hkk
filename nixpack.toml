@@ -1,0 +1,5 @@
+[build]
+  language = "python"
+  python_version = "3.9"
+  install_cmds = ["pip install -r requirements.txt"]
+  start_cmd = "python app.py"
